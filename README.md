@@ -7,3 +7,5 @@ VS tiene instalado por defecto Emmet que permite autocompletar código para ahor
 
 sass --watch style.sass:styles.css
 Para generar el css preprocesado por el archiv .sass
+
+Nota: Leer los comentarios dentro de los archivos
