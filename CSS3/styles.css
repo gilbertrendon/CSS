@@ -1,0 +1,29 @@
+#shape {
+  height: 300px;
+  width: 300px;
+  background-image:"../purpleTele.jpg";
+  /* background: #464775; */
+  margin: auto auto auto auto;
+  border: 1px solid black;
+}
+
+#circle {
+  width: 100px;
+  height: 100px;
+  background-image:"purpleTele.jpg";
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #5cb85c;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+body {
+  display: flex;
+  margin: auto auto auto auto;
+}
